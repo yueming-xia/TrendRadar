@@ -132,8 +132,8 @@ platforms:
     #name: "快讯通"
 
   # === 社交/短视频/娱乐类 ===
-  - id: "weibo"
-    name: "微博"
+  #- id: "weibo"
+    #name: "微博"
   #- id: "douyin"
     #name: "抖音"
   #- id: "bilibili-hot-search"
